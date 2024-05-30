@@ -1,6 +1,6 @@
-# Hola , Mi Nombre Es Priestxa
+# Hola 👋 Mi Nombre Es Priestxa
 - 👋 Hi, I’m @KanoraxMP
-- 📙 I’m interested Programing and Cyber Security 🛡️💻
+- 📙 I’m interested Programming and Cyber Security 🛡️💻
 - 🌱 I’m study Computer Science
 - 📫 DM For Work and Inquire
 
