@@ -7,9 +7,9 @@ Student of Computer Science (ComSci)
 Hi , I am a student computer science . I wish to do a project about network security , web app and desktop app dev . but I never stop to do and learning.
 
 * 🌍  I'm based in Thailand
-* 📙 I’m interested Programming and Cyber Security 🛡️💻
-* ⚡  I' like to eat western foods , east foods and drink green tea.
-* 📫 DM For Work and Inquire
+* 📙  I’m interested Programming and Cyber Security 🛡️💻
+* ⚡  I like raising dogs, I love dogs.
+* 📫  DM For Work and Inquire
 
 <a href="https://www.github.com/KanoraxMP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KanoraxMP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
