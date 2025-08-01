@@ -9,7 +9,6 @@ Hi , I am a student computer science . I wish to do a project about network secu
 * 🌍  I'm based in Thailand
 * 📙  I’m interested Programming and Cyber Security 🛡️💻
 * ⚡  I like raising dogs, I love dogs.
-* 📫  DM For Work and Inquire
 
 <a href="https://www.github.com/KanoraxMP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KanoraxMP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
