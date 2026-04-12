@@ -4,11 +4,10 @@ Hi 👋 My name is Prxiestza
 Student of Computer Science (ComSci)
 ------------------------------------
 
-Hi , I am a student computer science . I wish to do a project about network security , web app and desktop app dev . but I never stop to do and learning.
+Hi , I am a student computer science . I could interested network security n dev etc.
 
-* 🌍  I'm based in Thailand
-* 📙  I’m interested Programming and Cyber Security 🛡️💻
-* ⚡  I like raising dogs, I love dogs.
+* 🌍  Thailand
+* 📙  Interested Programming and Cyber Security 🛡️💻
 
 <a href="https://www.github.com/KanoraxMP" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KanoraxMP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
