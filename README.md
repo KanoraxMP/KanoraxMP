@@ -12,10 +12,10 @@ software development, networking, and cyber security.
 - 🚀 Always learning and improving my technical skills
 
 <br>
-
+<!--
 <a href="https://github.com/KanoraxMP">
   <img src="https://img.shields.io/github/followers/KanoraxMP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers"/>
-</a>
+</a> -->
 
 ---
 
