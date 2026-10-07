@@ -4,7 +4,10 @@
 </p>
 
 <p align="left">
-  <sub>pic by <a href="https://x.com/mnnnya">@mnnnya</a></sub>
+  <!-- <sub>pic by <a href="https://x.com/mnnnya">@mnnnya</a></sub> -->
+  <span style="font-size: 16px;">
+    Art by <a href="https://x.com/mnnnya">@mnnnya</a>
+  </span>
 </p>
 
 # Hi 👋, I'm Prxiestza
