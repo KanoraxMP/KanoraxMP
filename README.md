@@ -109,10 +109,6 @@ software development, networking, and cyber security.
 <img src="https://skillicons.dev/icons?i=vscode" width="45" />
 </a>
 
-<a href="https://developer.android.com/studio">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="45" />
-</a>
-
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="45" />
 </a>
