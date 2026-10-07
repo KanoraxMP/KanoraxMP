@@ -19,7 +19,7 @@ software development, networking, and cyber security.
 
 ---
 
-# 🤓 My Technical Skills
+# My Skills
 
 <table>
 <tr>
