@@ -11,12 +11,6 @@
 
 # Hi 👋, I'm Prxiestza
 
-# Hi 👋, I'm Prxiestza
-
-<br>
-
-# Hi 👋, I'm Prxiestza
-
 ### 🎓 Computer Science Student | 💻 Developer | 🛡️ Cyber Security Enthusiast
 
 I'm a Computer Science student from Thailand who is interested in programming,  
