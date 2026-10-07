@@ -3,7 +3,7 @@
   <img src="./image/bannerProfile.jpg" width="100%" />
 </p>
 
-<p align="center">
+<p align="left">
   <sub>pic by <a href="https://x.com/mnnnya">@mnnnya</a></sub>
 </p>
 
