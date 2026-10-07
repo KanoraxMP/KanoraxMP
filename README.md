@@ -7,8 +7,6 @@
   <sub>pic by <a href="https://x.com/mnnnya">@mnnnya</a></sub>
 </p>
 
-<br>
-
 # Hi 👋, I'm Prxiestza
 
 ### 🎓 Computer Science Student | 💻 Developer | 🛡️ Cyber Security Enthusiast
