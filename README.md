@@ -202,8 +202,7 @@ software development, networking, and cyber security.
 
 </p> -->
 
----
-
+<!--
 # 💻 Most Used Languages
 
 <p align="center">
@@ -212,8 +211,7 @@ software development, networking, and cyber security.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&langs_count=10&layout=donut-vertical&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" />
 </a>
 
-</p>
-
+</p> -->
 ---
 
 <p align="center">
