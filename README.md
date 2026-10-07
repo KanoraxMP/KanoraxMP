@@ -197,7 +197,6 @@ software development, networking, and cyber security.
 
 </p>
 
----
 <!--
 # 🏆 GitHub Trophies
 
