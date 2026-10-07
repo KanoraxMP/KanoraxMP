@@ -198,14 +198,14 @@ software development, networking, and cyber security.
 </p>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=KanoraxMP&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
 
-</p>
+</p> -->
 
 ---
 
