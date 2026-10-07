@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./image/banner.jpg" width="100%" />
+</p>
+
+<br>
+
 # Hi 👋, I'm Prxiestza
 
 ### 🎓 Computer Science Student | 💻 Developer | 🛡️ Cyber Security Enthusiast
