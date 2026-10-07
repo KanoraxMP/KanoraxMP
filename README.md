@@ -148,7 +148,7 @@ software development, networking, and cyber security.
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Contact Me
 
 <p align="left">
 
