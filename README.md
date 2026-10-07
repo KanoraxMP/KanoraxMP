@@ -1,4 +1,15 @@
-![Preview](./image/bannerProfile.jpg)
+<!-- ![Preview](./image/bannerProfile.jpg) -->
+<p align="center">
+  <img src="./image/bannerProfile.jpg" width="100%" />
+</p>
+
+<p align="center">
+  <sub>pic by <a href="https://x.com/mnnnya">@mnnnya</a></sub>
+</p>
+
+<br>
+
+# Hi 👋, I'm Prxiestza
 
 # Hi 👋, I'm Prxiestza
 
