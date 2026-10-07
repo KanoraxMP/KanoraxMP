@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./image/bannerProfile.jpg" width="100%" />
-</p>
+![Preview](./image/bannerProfile.jpg)
+
+# Hi 👋, I'm Prxiestza
 
 <br>
 
