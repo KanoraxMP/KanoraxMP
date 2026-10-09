@@ -228,8 +228,7 @@ software development, networking, and cyber security.
 
 <p align="center">
 
-### 🚀 Keep Learning. Keep Building. Keep Improving.
-
-⭐ Thanks for visiting my profile!
+<!-- ### 🚀 Keep Learning. Keep Building. Keep Improving. -->
+### ⭐ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗶𝗻𝗴 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲!
 
 </p>
