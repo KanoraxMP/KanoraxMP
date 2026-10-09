@@ -30,7 +30,7 @@ software development, networking, and cyber security.
 
 ---
 
-# My Skills
+# My Favorite Tools
 
 <table>
 <tr>
