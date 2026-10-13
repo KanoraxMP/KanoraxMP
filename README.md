@@ -30,7 +30,7 @@ software development, networking, and cyber security.
 
 ---
 
-# My Favorite Tools
+# My Tools
 
 <table>
 <tr>
@@ -179,7 +179,7 @@ software development, networking, and cyber security.
 
 ---
 
-# 📊 GitHub Statistics & Streak
+# 📊 GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/KanoraxMP">
@@ -187,20 +187,13 @@ software development, networking, and cyber security.
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/KanoraxMP">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/KanoraxMP">
-        <img src="https://streak-stats.demolab.com?user=KanoraxMP&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/KanoraxMP">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" />
+  </a><a href="https://github.com/KanoraxMP">
+    <img width="49%" src="https://streak-stats.demolab.com?user=KanoraxMP&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
+  </a>
+</p>
 
 <!--
 # 🏆 GitHub Trophies
