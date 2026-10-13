@@ -179,7 +179,7 @@ software development, networking, and cyber security.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Statistics & Streak
 
 <p align="center">
 
@@ -193,9 +193,7 @@ software development, networking, and cyber security.
 
 </p>
 
----
-
-# 🔥 GitHub Streak
+<!-- # 🔥 GitHub Streak -->
 
 <p align="center">
 
