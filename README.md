@@ -182,26 +182,25 @@ software development, networking, and cyber security.
 # 📊 GitHub Statistics & Streak
 
 <p align="center">
-
-<a href="https://github.com/KanoraxMP">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanoraxMP&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=1c1917" />
-</a>
-
-<a href="https://github.com/KanoraxMP">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
-</a>
-
+  <a href="https://github.com/KanoraxMP">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanoraxMP&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=1c1917" />
+  </a>
 </p>
 
-<!-- # 🔥 GitHub Streak -->
-
-<p align="right">
-
-<a href="https://github.com/KanoraxMP">
-<img src="https://streak-stats.demolab.com?user=KanoraxMP&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
-</a>
-
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/KanoraxMP">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/KanoraxMP">
+        <img src="https://streak-stats.demolab.com?user=KanoraxMP&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 # 🏆 GitHub Trophies
