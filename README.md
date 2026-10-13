@@ -195,7 +195,7 @@ software development, networking, and cyber security.
 
 <!-- # 🔥 GitHub Streak -->
 
-<p align="center">
+<p align="right">
 
 <a href="https://github.com/KanoraxMP">
 <img src="https://streak-stats.demolab.com?user=KanoraxMP&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
@@ -215,7 +215,7 @@ software development, networking, and cyber security.
 <!--
 # 💻 Most Used Languages
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/KanoraxMP">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanoraxMP&langs_count=10&layout=donut-vertical&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=1c1917" />
