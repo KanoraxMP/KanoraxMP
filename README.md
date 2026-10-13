@@ -179,7 +179,7 @@ software development, networking, and cyber security.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Statistics & Streak
 
 <p align="center">
   <a href="https://github.com/KanoraxMP">
